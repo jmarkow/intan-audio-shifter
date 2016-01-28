@@ -1,1 +1,1 @@
-Audio shifter board for sending line-level audio signals to the Intan RHD evaluation board ADCs.  Kindly designed for the Gardner Lab by the Electronics Design Facility at BU.
+Audio shifter board for sending line-level audio signals to the Intan RHD evaluation board ADCs.  Kindly designed for the Gardner Lab by the Electronics Design Facility at BU. To view/order you will need the ExpressPCB software.  Load in the driver1.sch and driver1.pcb files.  The PCB was designed as a "miniboard".
